@@ -1,5 +1,4 @@
 package  com.example.myapplication
-import com.example.myapplication.R
 
 
 import androidx.appcompat.app.AppCompatActivity
@@ -15,6 +14,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.myapplication.data.local.entity.Todo
 import com.example.myapplication.ui.TodoAdappter
 import com.example.myapplication.ui.TodoViewModel
+import com.scienceexperts.mayartodos.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
