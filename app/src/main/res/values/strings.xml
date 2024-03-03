@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MayarToDo</string>
+    <string name="titleEditText">Title</string>
+    <string name="descriptionEditText">Description</string>
+    <string name="addButtonText">Add</string>
+    <string name="entertitle">title</string>
+</resources>
